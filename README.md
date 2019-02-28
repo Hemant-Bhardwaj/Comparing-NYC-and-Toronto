@@ -6,3 +6,11 @@ are the largest cities and the financial capital of their respective countries. 
 like number of tourist attractions, or restaurants etc. Or who has the better bars. For this problem, I will be using 
 Foursqaure's Places API which has the data for tens of thousands of places around the world and features like venue category 
 and popularity.
+
+
+Data 
+
+For a list of Toronto neighborhoods, I'll be scrapping Wikipedia using beautiful soup. ('https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M')
+
+And for NYC neighborhoods, I'll be using data provided by NYU.
+(https://geo.nyu.edu/catalog/nyu_2451_34572)
