@@ -1,17 +1,12 @@
-# Comparing-NYC-and-Toronto
+# Types of Bars and Restuarants in NYC.
 Introduction/Business Problem 
 
-In this problem, I will try to compare neighborhoods of NYC and Toronto, how similar or dissimilar they are. Both the cities 
-are the largest cities and the financial capital of their respective countries. They can be compared based on a lot of things 
-like number of tourist attractions, or restaurants etc. Or who has the better bars. For this particular problem, I'll be comparing who has the better restuarants. This problem can be interesting to someone who wants to know which city has better restaurants or if someone wants to open a new restaurant in one of this cities.       
-
+In this problem, I will try to find out where should a person open a Bar/Resturant in NYC depending on the borough. For a business, it is really important to know the market where you are planning to open your business. What the market likes or does not like, knowing or not knowing these things can make or break the business. NYC is well known for its Resturants and Bars, let's see the types of Restuarants and Bars in each borough.
 
 For this problem, I will be using Foursqaure's Places API which has the data for tens of thousands of places around the world and features like venue category and popularity.
 
 
 Data 
 
-For a list of Toronto neighborhoods, I'll be scrapping Wikipedia using beautiful soup. ('https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M')
-
-And for NYC neighborhoods, I'll be using data provided by NYU.
+For NYC neighborhoods, I'll be using data provided by NYU.
 (https://geo.nyu.edu/catalog/nyu_2451_34572)
