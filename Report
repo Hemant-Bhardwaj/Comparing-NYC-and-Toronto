@@ -1,0 +1,39 @@
+# Types of Bars and Restuarants in NYC.
+# Introduction/Business Problem 
+
+In this problem, I will try to find out where should a person open a Bar/Resturant in NYC depending on the borough. For a business, it is really important to know the market where you are planning to open your business. What the market likes or does not like, knowing or not knowing these things can make or break the business. NYC is well known for its Resturants and Bars, let's see the types of Restuarants and Bars in each borough.
+
+For this problem, I will be using Foursqaure's Places API which has the data for tens of thousands of places around the world and features like venue category and popularity.
+
+
+# Data 
+
+For NYC neighborhoods, I'll be using data provided by NYU.
+(https://geo.nyu.edu/catalog/nyu_2451_34572).
+I have also uploaded the json file.
+
+The json file has the coordinates for all the Boroughs and their respective neighborhoods. The coordinates will be used to to
+find the venues(Restaurants/Bars) with the help of the Places API provided by Foursquare.
+
+
+# Methodology
+
+First, I created a map of whole NYC area showing all the venues of different categories. Then I created dataframes and maps of
+each individual borough with all the venues using the Places API. After that I filtered out the Restaurant and Bar categories from
+venues and projected it onto the map. Then I checked the top 10 categories and top 5 most common restaurants and bars which will
+help decide what type of bar or restaurant is most popular in each borough.
+
+# Results
+
+Resturants was more common than Bars in all 5 boroughs. And all Italian Restaurants were the most common in all borough except Bronx.
+
+
+# Discussion 
+
+It is clear that Italian food is very popular in NYC. If someone wants to open a restuarant in NYC area I would suggest to open
+an Italian Restuarant in Manhattan because Manhattan has a lot of restuarants.
+
+# Conclusion
+
+This type of analysis can be done for other cities to find out the most porpular venues of the city or we can compare different 
+cities, what kind of venue is popular in each city.
