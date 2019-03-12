@@ -9,4 +9,5 @@ For this problem, I will be using Foursqaure's Places API which has the data for
 Data 
 
 For NYC neighborhoods, I'll be using data provided by NYU.
-(https://geo.nyu.edu/catalog/nyu_2451_34572)
+(https://geo.nyu.edu/catalog/nyu_2451_34572).
+I have also uploaded the json file.
